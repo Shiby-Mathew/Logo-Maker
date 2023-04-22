@@ -7,7 +7,7 @@ The link for my deployed wesite can viewed here
 
 ## Description
 
-``
+```
 
 ```
 
@@ -19,7 +19,7 @@ AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
-````
+```
 
 ## Acceptance Criteria
 
@@ -38,7 +38,7 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
-````
+```
 
 ### Usage
 
@@ -47,26 +47,19 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ```
 
-## Mock-Up
-
-The following are some images of this functionality:
-
-### Technologies Used
+## Technologies Used
 
 ```
 Node.js
 Inquirer@8.4.2
 Jest for unit testing
-
 ```
 
-## Test
+## Unit Test Screen shot
 
-```
+![Screenshots1](./examples/unit-test.PNG)
 
-```
-
-## Screen Shots
+## Screen Shots of SVG logo
 
 ![Screenshots1](./examples/svglogo1.png)
 ![Screenshots1](./examples/svglogo2.png)
@@ -74,7 +67,7 @@ Jest for unit testing
 
 ## Video Link
 
-[![Walk through video](https://drive.google.com/file/d/1h9tPGZ3nocOxr-OnsDLz7FqK8DekMvPe/view.png)](https://drive.google.com/file/d/1h9tPGZ3nocOxr-OnsDLz7FqK8DekMvPe/view)
+[![Walk through video](https://drive.google.com/file/d/10Vm7-G4cCCljKqmavsAovbO8f1UWnTEk/view.png)](https://drive.google.com/file/d/10Vm7-G4cCCljKqmavsAovbO8f1UWnTEk/view)
 
 ### Resources
 
@@ -89,4 +82,3 @@ Jest for unit testing
 - [Text in SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts)
 
 - [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
-- Stack over flow
