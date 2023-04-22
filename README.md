@@ -7,7 +7,7 @@ The link for my deployed wesite can viewed here
 
 ## Description
 
-```md
+``
 
 ```
 
@@ -18,7 +18,8 @@ The link for my deployed wesite can viewed here
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
-```
+
+````
 
 ## Acceptance Criteria
 
@@ -37,7 +38,7 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
-```
+````
 
 ### Usage
 
@@ -53,8 +54,27 @@ The following are some images of this functionality:
 ### Technologies Used
 
 ```
+Node.js
+Inquirer@8.4.2
+Jest for unit testing
 
 ```
+
+## Test
+
+```
+
+```
+
+## Screen Shots
+
+![Screenshots1](./examples/svglogo1.png)
+![Screenshots1](./examples/svglogo2.png)
+![Screenshots1](./examples/svglogo3.png)
+
+## Video Link
+
+[![Walk through video](https://drive.google.com/file/d/1h9tPGZ3nocOxr-OnsDLz7FqK8DekMvPe/view.png)](https://drive.google.com/file/d/1h9tPGZ3nocOxr-OnsDLz7FqK8DekMvPe/view)
 
 ### Resources
 
