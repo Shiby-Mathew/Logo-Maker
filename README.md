@@ -2,12 +2,14 @@
 
 ```
 The link for my deployed wesite can viewed here
+https://shiby-mathew.github.io/Logo-Maker/
 
 ```
 
 ## Description
 
 ```
+This appliction generates a logo and save that in .svg format using user inputs. This application built in Node.js and takes user input from command-line.The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
 
 ```
 
@@ -62,8 +64,8 @@ Jest for unit testing
 ## Screen Shots of SVG logo
 
 ![Screenshots1](./examples/svglogo1.png)
-![Screenshots1](./examples/svglogo2.png)
-![Screenshots1](./examples/svglogo3.png)
+![Screenshots2](./examples/svglogo3.png)
+![Screenshots3](./examples/svglogo2.png)
 
 ## Video Link
 
