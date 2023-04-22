@@ -9,7 +9,7 @@ https://shiby-mathew.github.io/Logo-Maker/
 ## Description
 
 ```
-This appliction generates a logo and save that in .svg format using user inputs. This application built in Node.js and takes user input from command-line.The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
+This appliction generates a logo and save that in .svg format using user's input. This application built in Node.js and takes user input from command-line.The application prompts the user to select a color and a shape, provide text for the logo, and save the generated SVG to a `.svg` file.
 
 ```
 
@@ -42,12 +42,6 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-### Usage
-
-```
-
-
-```
 
 ## Technologies Used
 
