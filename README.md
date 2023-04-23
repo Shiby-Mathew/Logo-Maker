@@ -42,18 +42,23 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-
 ## Technologies Used
 
 ```
 Node.js
-Inquirer@8.4.2
+Inquirer@8.2.4
 Jest for unit testing
 ```
 
+## Usage
+
+- Create SVG logo using user input
+- Multiple prompts asking user for text, text-color, shape and shape color
+- Once logo is created that will save in .svg format and saved in a file
+
 ## Unit Test Screen shot
 
-![Screenshots1](./examples/unit-test.PNG)
+![Unit test](./examples/unit-test.PNG)
 
 ## Screen Shots of SVG logo
 
